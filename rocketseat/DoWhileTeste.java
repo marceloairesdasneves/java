@@ -15,7 +15,6 @@ public class DoWhileTeste {
             System.out.println("Não foi possível completar a ligação");
             
         }
-
     }
 
     private static boolean tocando() {
